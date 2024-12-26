@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "require": {
+        "symfony/filesystem": "^5.4",
+        "symfony/finder": "^5.4"
+    }
+}
